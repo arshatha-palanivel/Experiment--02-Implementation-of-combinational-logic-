@@ -71,13 +71,17 @@ endmodule
 ## RTL 
 ## F1:
 ![](./01.png)
+
 ## F2:
 ![](./02.png)
+
 ## TIMING DIAGRAM
 ## F1:
 ![](./03.png)
+
 ## F2:
 ![](./04.png)
+
 # Result
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
